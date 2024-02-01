@@ -8,7 +8,6 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest"
-    "emulator": "emulator -avd Pixel_3a_API_34_extension_level_7_arm64-v8a"
   },
   "dependencies": {
     "react": "18.2.0",
